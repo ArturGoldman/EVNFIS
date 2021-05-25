@@ -54,6 +54,6 @@ Normalising Flows architectures.
 
 - **2_dim.ipynb** - Jupyter Notebook, which performs hyperparameter grid-search and outputs data to **2dimressev.csv.csv**.
 
-- **2dimressev.csv.csv** - result of **banana_test.ipynb**
+- **2dimressev.csv.csv** - result of **2_dim.ipynb**
 
 - **2_dim_ananlisys.ipynb** - Jupyter Notebook, which performs analysis of results stored **2dimressev.csv.csv**. This script analyses variance reduction.
